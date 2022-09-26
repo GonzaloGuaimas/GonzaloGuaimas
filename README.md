@@ -1,10 +1,8 @@
 ### Hi everyone! My name is Gonzalo and i'm computer engineering student 👋
 
 - 🔭 I’m currently working on my own proyects
-- 🌱 I’m currently learning REACT 
+- 🌱 I’m currently learning REACT in OpenBootCamp
 - 📫 How to reach me: [Linkedin - @gonzaloguaimas](www.linkedin.com/in/gonzaloguaimas)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening lofi-code music
 
 CONTACT:
 <a href="https://linkedin.com/in/gonzalo-guaimas-4a82a820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gonzaloguaimas" height="30" width="40" /></a>
