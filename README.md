@@ -10,7 +10,21 @@ CONTACT:
 SKILLS:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,nextjs,nodejs,express,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,nextjs,nodejs,express,mongodb,git,bootstrap" />
+  </a>
+  <h3>DataBases knowladeage</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite,postgres" />
+   </a>
+   <h3>Languajes</h3>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,cs,py,dart" />
+    </a>
+</p>
+Other:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,cs,cloudflare,dart,docker,eclipse,heroku,java,py,dotnet" />
   </a>
 </p>
 
