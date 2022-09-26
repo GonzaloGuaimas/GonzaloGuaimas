@@ -15,7 +15,6 @@ SKILLS:
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gonzaloguaimas&bg_color=262626&color=ffffff&line=40c45a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzaloguaimas&show_icons=true&locale=en&layout=compact" alt="gonzaloguaimas" /></p>
 
 <p align="center">
   <h3>DataBases knowladeage</h3>
@@ -35,8 +34,7 @@ Other:
 </p>
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzaloguaimas&show_icons=true&locale=en&layout=compact" alt="gonzaloguaimas" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzaloguaimas&show_icons=true&locale=en" alt="gonzaloguaimas" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzaloguaimas&" alt="gonzaloguaimas" /></p>
 
